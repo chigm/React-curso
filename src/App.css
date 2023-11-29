@@ -31,3 +31,15 @@ nav ul{
   display: flex;
   flex-grow: 1;
 }
+
+nav ul li {
+  flex-grow: 1;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 8px;
+  display: block;
+  text-align: center;
+}
